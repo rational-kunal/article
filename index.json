@@ -3,7 +3,7 @@
     {
       "title": "hello world",
       "keywords": ["first", "blog"],
-      "url": "https://github.com/rational-kunal/article/blob/master/hello-world.md",
+      "url": "https://raw.githubusercontent.com/rational-kunal/article/master/hello-world.md",
       "date": "today"
     }
   ]
